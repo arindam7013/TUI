@@ -1,4 +1,4 @@
-# linux_menu_program_using_python
+LINUX BASED TUI
 
 🔰 Create a Automated Menu Using Python and Linux
 
